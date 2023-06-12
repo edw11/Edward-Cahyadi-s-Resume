@@ -9,7 +9,8 @@ Resume build environment: HTML, CSS, Visual Code Studio
 - Projects sections
 - skills sections
 ### Links
->https://celcius.io/
->https://www.canva.com/design/DAFlk0xqiKg/e-afNeg7IpvlRzGbbvYR4Q/view?utm_content=DAFlk0xqiKg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+- Website project = https://celcius.io/
+
+- Full CV = https://www.canva.com/design/DAFlk0xqiKg/e-afNeg7IpvlRzGbbvYR4Q/view?utm_content=DAFlk0xqiKg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 
