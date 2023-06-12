@@ -3,7 +3,7 @@
 Resume build environment: HTML, CSS, Visual Code Studio
 ### Sections of the resume:
 - Name and Contact Info section
-1. Information of Communication Student at Semyung University I am an enthusiastic undergraduate student pursuing a degree in Information Technology at Semyung University, With a passion for building innovative solutions, I am dedicated to developing my skills and knowledge in this dynamic field. Throughout my academic journey, I have gained a solid foundation in software development methodologies and programming languages.
+--Information of Communication Student at Semyung University I am an enthusiastic undergraduate student pursuing a degree in Information Technology at Semyung University, With a passion for building innovative solutions, I am dedicated to developing my skills and knowledge in this dynamic field. Throughout my academic journey, I have gained a solid foundation in software development methodologies and programming languages.
 - About me section
 - Experience sections
 - Education sections
