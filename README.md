@@ -1,3 +1,6 @@
-# 2021219035 학번의 RESUME입니다...
+# Edward Cahyadi's Resume
 ### Description
-HTML, CSS로 RESUME 만들었습니다.
+Resume build environment: HTML, CSS, Visual Code Studio
+## Parts of the resume:
+
+
