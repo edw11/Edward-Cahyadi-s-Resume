@@ -1,4 +1,4 @@
-# Edward Cahyadi's Resume
+# Edward Cahyadi's Resume 학번: 2021219035
 ### Description
 Resume build environment: HTML, CSS, Visual Code Studio
 ### Sections of the resume:
