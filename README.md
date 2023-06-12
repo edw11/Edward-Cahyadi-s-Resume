@@ -16,7 +16,7 @@ Resume build environment: HTML, CSS, Visual Code Studio
 #### Projects sections
 - Website Developer
 - Android Developer
-#### skills sections
+### Skills sections
 - HTML, CSS
 - Python
 - Tensor Flow
